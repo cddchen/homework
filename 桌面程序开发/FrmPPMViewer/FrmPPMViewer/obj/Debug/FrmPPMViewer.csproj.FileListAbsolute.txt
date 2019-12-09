@@ -1,0 +1,10 @@
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\bin\Debug\FrmPPMViewer.exe.config
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\bin\Debug\FrmPPMViewer.exe
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\bin\Debug\FrmPPMViewer.pdb
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.csprojAssemblyReference.cache
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.Properties.Resources.resources
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.csproj.GenerateResource.cache
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.csproj.CoreCompileInputs.cache
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.exe
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.pdb
+C:\Users\cdd13\source\repos\FrmPPMViewer\FrmPPMViewer\obj\Debug\FrmPPMViewer.Form1.resources

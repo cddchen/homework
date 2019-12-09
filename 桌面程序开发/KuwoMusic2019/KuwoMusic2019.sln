@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuwoMusic2019", "KuwoMusic2019\KuwoMusic2019.csproj", "{9B038419-A2C0-4CCA-926E-5D0C14D6D1DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer", "MusicPlayer\MusicPlayer.csproj", "{87893C30-69FA-4371-B320-BEC55F260A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B038419-A2C0-4CCA-926E-5D0C14D6D1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B038419-A2C0-4CCA-926E-5D0C14D6D1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B038419-A2C0-4CCA-926E-5D0C14D6D1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B038419-A2C0-4CCA-926E-5D0C14D6D1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87893C30-69FA-4371-B320-BEC55F260A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87893C30-69FA-4371-B320-BEC55F260A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87893C30-69FA-4371-B320-BEC55F260A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87893C30-69FA-4371-B320-BEC55F260A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99528996-622E-4B16-93ED-D7100BC4FFD2}
+	EndGlobalSection
+EndGlobal

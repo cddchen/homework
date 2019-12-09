@@ -1,0 +1,10 @@
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\bin\Debug\QQ2020.exe.config
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\bin\Debug\QQ2020.exe
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\bin\Debug\QQ2020.pdb
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\obj\Debug\QQ2020.csprojAssemblyReference.cache
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\obj\Debug\QQ2020.Form1.resources
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\obj\Debug\QQ2020.Properties.Resources.resources
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\obj\Debug\QQ2020.csproj.GenerateResource.cache
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\obj\Debug\QQ2020.exe
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\obj\Debug\QQ2020.pdb
+C:\Users\cdd13\Desktop\桌面程序开发\QQ2020\QQ2020\obj\Debug\QQ2020.FormMain.resources

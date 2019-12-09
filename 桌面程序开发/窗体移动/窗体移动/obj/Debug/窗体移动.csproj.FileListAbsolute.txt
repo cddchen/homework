@@ -1,0 +1,16 @@
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\bin\Debug\窗体移动.exe.config
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\bin\Debug\窗体移动.exe
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\bin\Debug\窗体移动.pdb
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\bin\Debug\WindowsBase.dll
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.csprojAssemblyReference.cache
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.Form1.resources
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.Properties.Resources.resources
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.csproj.GenerateResource.cache
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.csproj.CopyComplete
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.exe
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.pdb
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\bin\Debug\Interop.WMPLib.dll
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\Interop.WMPLib.dll
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cdd13\Desktop\桌面程序开发\窗体移动\窗体移动\obj\Debug\窗体移动.csproj.ResolveComReference.cache

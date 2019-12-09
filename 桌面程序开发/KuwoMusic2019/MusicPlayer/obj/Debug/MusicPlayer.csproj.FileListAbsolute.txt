@@ -1,0 +1,9 @@
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\bin\Debug\MusicPlayer.dll
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\obj\Debug\MusicPlayer.UserControl1.resources
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\obj\Debug\MusicPlayer.dll
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\cdd13\source\repos\KuwoMusic2019\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache

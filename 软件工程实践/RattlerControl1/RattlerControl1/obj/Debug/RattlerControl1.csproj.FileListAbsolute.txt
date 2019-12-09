@@ -1,0 +1,9 @@
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\bin\Debug\RattlerControl1.dll
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\bin\Debug\RattlerControl1.pdb
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\obj\Debug\RattlerControl1.Properties.Resources.resources
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\obj\Debug\RattlerControl1.Rattler.resources
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\obj\Debug\RattlerControl1.csproj.GenerateResource.cache
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\obj\Debug\RattlerControl1.csproj.CoreCompileInputs.cache
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\obj\Debug\RattlerControl1.dll
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\obj\Debug\RattlerControl1.pdb
+C:\Users\cdd13\Desktop\软件工程实践\RattlerControl1\RattlerControl1\obj\Debug\RattlerControl1.csprojAssemblyReference.cache

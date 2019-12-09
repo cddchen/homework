@@ -1,0 +1,10 @@
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\bin\Debug\PhotoShop.exe.config
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\bin\Debug\PhotoShop.exe
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\bin\Debug\PhotoShop.pdb
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\obj\Debug\PhotoShop.csprojAssemblyReference.cache
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\obj\Debug\PhotoShop.Form1.resources
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\obj\Debug\PhotoShop.Properties.Resources.resources
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\obj\Debug\PhotoShop.csproj.GenerateResource.cache
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\obj\Debug\PhotoShop.csproj.CoreCompileInputs.cache
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\obj\Debug\PhotoShop.exe
+C:\Users\cdd13\source\repos\PhotoShop\PhotoShop\obj\Debug\PhotoShop.pdb

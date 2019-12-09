@@ -1,0 +1,13 @@
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\bin\Debug\KuwoMusic2019.exe.config
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\bin\Debug\KuwoMusic2019.exe
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\bin\Debug\KuwoMusic2019.pdb
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\bin\Debug\MusicPlayer.dll
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\bin\Debug\MusicPlayer.pdb
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.csprojAssemblyReference.cache
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.Form1.resources
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.Properties.Resources.resources
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.csproj.GenerateResource.cache
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.csproj.CoreCompileInputs.cache
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.csproj.CopyComplete
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.exe
+C:\Users\cdd13\source\repos\KuwoMusic2019\KuwoMusic2019\obj\Debug\KuwoMusic2019.pdb
